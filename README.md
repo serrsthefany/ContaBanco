@@ -1,18 +1,23 @@
-## Projeto Conta Banco
+## 👩🏽‍💻 Projeto Conta Banco
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Olá, esse é meu primeiro projeto JAVA e estou muito feliz em poder compartilhá-lo com vocês. 
 
-## Folder Structure
+## 🔙🔚Sobre o código Java 
 
-The workspace contains two folders by default, where:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+|O que foi utilizado|  Função |
+|----------|----------|
+|`numeroConta, nomeCliente, agencia, e saldo`| Declaração de Variáveis| 
+|`nextLine() do Scanner`|Leitura de Entrada do Usuário| 
+|`Double.parseDouble()`|Conversão de Saldo|
+| `scanner.close`| Fechamento do Scanner |
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## 📲 Conecte-se comigo 
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/sthefany1serrão/)
+[![Instagram](https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram)](https://www.instagram.com/serrao.r_stfny/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-white?style=for-the-badge&logo=whatsapp&logoColor=gree)](https://api.whatsapp.com/send?phone=554188965071)
+[![GitHub](https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black)](https://docs.github.com/)
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## 🖥 GitHub Streak Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=serrsthefany&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)

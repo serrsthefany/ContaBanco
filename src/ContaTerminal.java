@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class ContaTerminal {
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
+        System.out.println("Olá! Para iniciarmos sua consulta com toda segurança, gostaria de confirmar algumas informações.");
 
 Scanner scanner = new Scanner(System.in);
 
